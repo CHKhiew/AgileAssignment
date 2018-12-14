@@ -22,6 +22,7 @@ public class Agile {
        Payment form1 = new Payment();
        form1.setVisible(true);
        System.out.println("123");
+       System.out.println("123");
     }
     
 }
