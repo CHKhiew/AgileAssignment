@@ -336,6 +336,7 @@ public class RetrieveCustomerFrame extends javax.swing.JFrame {
         // TODO add your handling code here:
     }//GEN-LAST:event_jtfICKeyReleased
 //
+    //
     public void getRegisterNewCustomerRecord(List<RegisterC> customerList)
     {
         this.customerList = customerList;
