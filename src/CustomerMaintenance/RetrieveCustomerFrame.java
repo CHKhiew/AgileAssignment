@@ -16,6 +16,7 @@ import javax.swing.JOptionPane;
 public class RetrieveCustomerFrame extends javax.swing.JFrame {
 
     private List<RegisterC> customerList = new ArrayList<RegisterC>();
+    //
     /**
      * Creates new form RetrieveCustomerFrame
      */
