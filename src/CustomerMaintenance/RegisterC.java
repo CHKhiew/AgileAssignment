@@ -12,7 +12,7 @@ import java.util.Objects;
  *
  * @author: Khiew Choon Hong
  */
-//
+
 public class RegisterC {
     private static int nextID = 1000;
     private int id;
