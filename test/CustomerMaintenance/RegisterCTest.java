@@ -10,6 +10,7 @@ import org.junit.After;
 import org.junit.AfterClass;
 import org.junit.Before;
 import org.junit.BeforeClass;
+
 import org.junit.Test;
 import static org.junit.Assert.*;
 
@@ -57,7 +58,7 @@ public class RegisterCTest {
 
     /**
      * Test of setCustomerList method, of class RegisterC.
-     *///
+     */
     @Test
     public void testSetCustomerList() {
         System.out.println("setCustomerList");
